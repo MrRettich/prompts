@@ -1,10 +1,9 @@
-# prompts
+# PROPTS
 
 I will use this repositoriy to collect best practices and interesting prompts I found or made up, for prompting LLM's such as GPT. These are mainly System Prompts for using in the Chat mode of Open-AI's playground: https://platform.openai.com/playground?mode=chat.
 It is propably also possible to use them in Chat-GPT or other Transformer models alltogether.
 If you want to use them in the playground you will propably need a API-key from Open AI. : https://platform.openai.com/docs/api-reference
-
-## Best Practices 
+Also this might be out of date or be not very useful very soon, giving the speed of development in this field.
 
 ## System Prompts
 
